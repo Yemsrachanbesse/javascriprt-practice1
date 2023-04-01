@@ -34,4 +34,4 @@ default:
 console.log('invalid number');
 break;
 }
-console.log(eightBall);
+
