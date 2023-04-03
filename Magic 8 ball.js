@@ -1,7 +1,7 @@
 let userName='';
 userName ? console.log(`Hello,${userName}!`):
 console.log('Hello!');
-const userQuestion='what is your age';
+const userQuestion ='what is your age';
 console.log(`${userQuestion} ${userName} if you wish!`);
 let randomNumber=Math.floor(Math.random() * 8);
 let eightBall='';
