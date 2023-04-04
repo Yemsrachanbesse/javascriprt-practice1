@@ -6,23 +6,23 @@ console.log(`${userQuestion} ${userName} if you wish!`);
 let randomNumber=Math.floor(Math.random() * 8);
 let eightBall='';
 switch (randomNumber){
-  case 'eightBall===0':
- console.log('It is certain');
+  case 0:
+    eightBall==='itis certain'
  break;
- case 'eightBall===1':
- console.log('it is decidedly so');
+ case 1 :
+    eightBall==='itis certain'
  break;
- case 'eightBall===2':
- console.log('Reply hazy try again');
+ case 2:
+    eightBall==='itis certain'
  break;
- case 'eightBall===3':
- console.log('Cannot predict now');
+ case 3:
+    eightBall==='itis certain'
  break;
- case 'eightBall===4':
- console.log('Do not count on it');
+ case 4:
+    eightBall==='itis certain'
  break;
-case 'eightBall===5':
-console.log('My sources say no');
+case 5:
+    eightBall==='itis certain'
 break;
 case 'eightBall===6':
 console.log('Outlook not so good');
