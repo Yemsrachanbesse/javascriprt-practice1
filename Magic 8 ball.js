@@ -24,11 +24,11 @@ switch (randomNumber){
 case 5:
     eightBall==='itis certain'
 break;
-case 'eightBall===6':
-console.log('Outlook not so good');
+case '6':  
+eightBall==='itis certain'
 break;
-case 'eightBall===7':
-console.log('signs point to yes')
+case 7:
+   eightBall==='itis certain'
 break;
 default:
 console.log('invalid number');
