@@ -28,7 +28,7 @@ case '6':
 eightBall==='itis certain'
 break;
 case 7:
-   eightBall==='itis certain'
+   eightBall==='impossible'
 break;
 default:
 console.log('invalid number');
