@@ -25,7 +25,7 @@ case 5:
     eightBall==='itis certain'
 break;
 case '6':  
-eightBall==='itis certain'
+eightBall==='not at all'
 break;
 case 7:
    eightBall==='impossible'
