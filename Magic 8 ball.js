@@ -19,10 +19,10 @@ switch (randomNumber){
     eightBall==='itis certain'
  break;
  case 4:
-    eightBall==='itis certain'
+    eightBall==='itis certain'//
  break;
 case 5:
-    eightBall==='itis certain'
+    eightBall==='it is certain'
 break;
 case '6':  
 eightBall==='not at all'
