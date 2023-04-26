@@ -1,6 +1,6 @@
 const words = ['unique ', 'uncanny', 'pique', 'oxymoron', 'guise'];
 
-// Something is missing in the method call below
+// Something is missing in the method call beloww
 
 console.log(words.some(word => {
   return word.length < 6;
