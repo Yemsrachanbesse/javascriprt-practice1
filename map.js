@@ -13,4 +13,4 @@ const bigNumbers = [100, 200, 300, 400, 500];
 const smallNumbers=bigNumbers.map(bigNumber=>{
   return bigNumber/100;
 });
-console.log(smallNumbers);//yes 
+console.log(smallNumbers);// 
